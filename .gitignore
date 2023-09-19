@@ -1,0 +1,5 @@
+/venv/
+*.pyc
+event_app.db
+.vscode/
+__pycache__/
